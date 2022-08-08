@@ -16,6 +16,7 @@
 - [Service](https://www.dollido.kro.kr/)
 - [Front Github](https://github.com/dollido/Dollido-Front/)
 - [Back Github](https://github.com/dollido/Dollido-Back/)
+- [소개 영상](https://www.youtube.com/watch?v=y4m9TiTiXLI)
 <br>
 
 ## 👨‍👨‍👦‍👦 멤버구성
